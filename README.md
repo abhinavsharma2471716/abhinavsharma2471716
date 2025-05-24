@@ -1,5 +1,4 @@
 # Hello World 👋 🌍
-<h1 align="center">Hi there, I'm Abhinav Sharma 👋</h1>
 
 Welcome to my GitHub!  
 Thank you for visiting my profile and supporting my journey. 🚀  
