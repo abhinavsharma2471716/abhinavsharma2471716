@@ -1,4 +1,5 @@
 # Hello World 👋 🌍
+<h1 align="center">Hi there, I'm Abhinav Sharma 👋</h1>
 
 Welcome to my GitHub!  
 Thank you for visiting my profile and supporting my journey. 🚀  
@@ -9,6 +10,9 @@ Together, let’s keep building, learning, and growing! 😄
 
 - 💻 Passionate Developer and Problem Solver
 - 📊 Currently working on **LeetCode**, **Java**, and **DSA**
+- 🔭 I'm an experienced **ETL Developer & Full Stack Enthusiast**
+- 🌱 I’m passionate about **Data Engineering, Backend Development, Frontend Development, AI**, and **System Design**
+- 💬 Ask me about anything related to **Informatica Powercenter, IICS (Informatica Cloud), SQL, Linux, Autosys, Java, React, Spring Boot**, and **Cloud Technologies**
   
 
 
@@ -71,4 +75,28 @@ Together, let’s keep building, learning, and growing! 😄
 - 📧 Email: abhinavsharma247176@gmail.com 
 
 ---
+
+---
+
+## 🏆 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsharma2471716&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsharma2471716&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsharma2471716&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🧮 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavsharma2471716&theme=tokyo-night)
+
+---
+
+<p align="center">
+  Show some love ❤️ — star ⭐ and fork 🍴 the repos you enjoy!
+</p>
 
