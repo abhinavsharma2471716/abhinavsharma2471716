@@ -32,6 +32,7 @@ Together, let’s keep building, learning, and growing! 😄
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 
 ### 🧱 Frameworks & Libraries
@@ -43,7 +44,9 @@ Together, let’s keep building, learning, and growing! 😄
 ### 📊 Tools & Platforms
 ![Informatica Cloud](https://img.shields.io/badge/Informatica%20Cloud-F37021?style=flat)
 ![Informatica PowerCenter](https://img.shields.io/badge/Informatica%20PowerCenter-F37021?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix-003B57?style=flat&logo=gnubash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0078D7?style=flat&logo=windows-terminal&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
