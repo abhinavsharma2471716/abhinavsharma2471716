@@ -91,7 +91,7 @@ Together, let’s keep building, learning, and growing! 😄
 
 ## 🧮 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavsharma2471716&theme=tokyo-night)
+[![Abhinav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavsharma2471716&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
