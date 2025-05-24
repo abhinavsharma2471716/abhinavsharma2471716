@@ -4,36 +4,13 @@ Welcome to my GitHub!
 Thank you for visiting my profile and supporting my journey. 🚀  
 Together, let’s keep building, learning, and growing! 😄
 
----
-
-## 🚀 Milestone Journey on YouTube / GitHub
-
-<img src="https://img.icons8.com/fluency/512/youtube-play.png" width="100"/> ➡️ 
-<img src="https://user-images.githubusercontent.com/placeholder/10k.png" width="200"/> ➡️ 
-<img src="https://user-images.githubusercontent.com/placeholder/30k.png" width="200"/> ➡️ 
-<img src="https://user-images.githubusercontent.com/placeholder/50k.png" width="200"/>
-
----
 
 ### 👨‍💻 About Me
 
 - 💻 Passionate Developer and Problem Solver
 - 📊 Currently working on **LeetCode**, **Java**, and **DSA**
 - 🎯 Focused on cracking FAANG and top tech interviews
-- 📫 Let’s connect! → [Linktree/Portfolio](https://linktr.ee/your_link_here)
 
----
-
-### ✅ Cracked / Practicing Interviews At
-
-- 👨‍💻 Amazon
-- 👨‍💻 Flipkart
-- 👨‍💻 Microsoft
-- 👨‍💻 TCS Digital
-- 👨‍💻 Wipro Elite
-- 👨‍💻 Infosys SE Role
-
----
 
 ### 📈 Profile Views
 
@@ -58,11 +35,7 @@ Together, let’s keep building, learning, and growing! 😄
 
 ### 🔗 Connect with Me
 
-- 📧 Email: yourname@email.com  
-- 🔗 Linktree: [linktr.ee/your_link](https://linktr.ee/your_link_here)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: abhinavsharma247176@gmail.com 
 
 ---
-
-_“Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.” — Keep Coding :)_
 
