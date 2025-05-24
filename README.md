@@ -8,7 +8,6 @@ Together, let’s keep building, learning, and growing! 😄
 ### 👨‍💻 About Me
 
 - 💻 Passionate Developer and Problem Solver
-- 📊 Currently working on **LeetCode**, **Java**, and **DSA**
 - 🔭 I'm an experienced **ETL Developer & Full Stack Enthusiast**
 - 🌱 I’m passionate about **Data Engineering, Backend Development, Frontend Development, AI**, and **System Design**
 - 💬 Ask me about anything related to **Informatica Powercenter, IICS (Informatica Cloud), SQL, Linux, Autosys, Java, React, Spring Boot**, and **Cloud Technologies**
