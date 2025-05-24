@@ -89,9 +89,9 @@ Together, let’s keep building, learning, and growing! 😄
 
 ---
 
-## 🧮 Contribution Graph
+## 🐍 Contribution Snake
 
-[![Abhinav's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhinavsharma2471716&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![snake gif](https://github.com/abhinavsharma2471716/abhinavsharma2471716/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
