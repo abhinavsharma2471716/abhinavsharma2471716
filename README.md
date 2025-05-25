@@ -86,7 +86,6 @@ Together, let’s keep building, learning, and growing! 😄
 
 ---
 
-## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/abhinavsharma2471716/abhinavsharma2471716/blob/output/github-contribution-grid-snake.svg)
 
