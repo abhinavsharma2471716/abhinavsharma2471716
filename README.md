@@ -1,4 +1,4 @@
-# Hello World 👋 🌍
+# Hello 👋 🌍
 
 Welcome to my GitHub!  
 Thank you for visiting my profile and supporting my journey. 🚀  
