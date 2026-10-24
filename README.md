@@ -10,7 +10,7 @@ Together, let’s keep building, learning, and growing! 😄
 - 💻 Passionate Developer and Problem Solver
 - 🔭 I'm an experienced **ETL Developer & Full Stack Enthusiast**
 - 🌱 I’m passionate about **Data Engineering, Backend Development, Frontend Development, AI**, and **System Design**
-- 💬 Ask me about anything related to **Informatica Powercenter, IICS (Informatica Cloud), SQL, Linux, Autosys, Java, React, Spring Boot**, and **Cloud Technologies**
+- 💬 Ask me about anything related to **Informatica Powercenter, IICS (Informatica Cloud), SQL, Linux, PySpark, Autosys, Java, React, Spring Boot**, and **other Cloud Technologies like AWS, GCP**
   
 
 
